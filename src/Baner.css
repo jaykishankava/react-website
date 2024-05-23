@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cake .box{
+    width: 100%;
+    background-color: #f7f7f8;
+    text-align: center;
+    margin: 5px;
+    padding: 9px;
+}
+.cake .box h5{
+    margin: 5px;
+}
+.cake{
+    margin: 50px 0;
+}
+.up{
+    background-image: url('https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/categories/3.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: white;
+    height: 600px;
+    transition: all 0.5s ;
+    overflow: hidden;
+}
+.up:hover{
+    transform: scale(1.1);
+}
+
+.up h3{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.up h5{
+    text-align: center;
+    margin-top: 330px;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.up button{
+    display: block;
+    margin: 0 auto;
+    background-color: rgba(170, 231, 170, 0.608);
+    color: white;
+}
+.hello{
+    background-image: url('https://maraviyainfotech.com/projects/carrot/carrot-v2/carrot-html/assets/img/categories/4.jpg');
+}
+.Popular h2{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.Popular p{
+    font-size: 14px;
+    line-height: 22px;
+    color: #7a7a7a;
+}
